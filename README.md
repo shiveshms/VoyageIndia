@@ -27,8 +27,8 @@ Voyage India is a travel platform designed to help travelers discover, plan, and
 Thanks to the following people who have contributed to this project:
 
 - [@shiveshms](https://github.com/shiveshms)
-- [@username](https://github.com/username)
-- [@username](https://github.com/username)
+- [@vansh-hash](https://github.com/vansh-hash)
+- [@shivraj](https://github.com/username)
 
 ## 🚀 Getting Started
 
