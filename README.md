@@ -28,7 +28,7 @@ Thanks to the following people who have contributed to this project:
 
 - [@shiveshms](https://github.com/shiveshms)
 - [@vansh-hash](https://github.com/vansh-hash)
-- [@shivraj](https://github.com/username)
+- [@shivrajtiwari170](https://github.com/shivrajtiwari170)
 
 ## 🚀 Getting Started
 
